@@ -1,0 +1,71 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+# - {name: 'Projects', url: ''}
+# - {name: 'Blog', url: 'pages/blog.html'}
+# - {name: 'About', url: 'pages/about.html'}
+# - {name: 'Contact', url: 'pages/contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Decoração para a sua casa com elegância e design exclusivo'
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'G-60RGE90N7Z'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: '#'
+
+#-------------------------------
+# About Section
+
+# about: >
+#   # Portfolio Jekyll Theme
+
+#   This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+
+# contact: >
+#   # Contact
+
+#   You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'Conheça a Lily Paris', folder: 'sobre', file: 'paginas/sobre.html'}
+- {name: 'Coleção Gold Super Luxo', folder: 'gold', file: 'paginas/gold.html'}
+- {name: 'Coleção Black & White', folder: 'bw', file: 'paginas/bw.html'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://www.twitter.com/LilyParisDecor'}
+- {icon: 'instagram', link: 'https://www.instagram.com/LilyParisDecor'}
+- {icon: 'pinterest', link: '#'}
+# - {icon: 'linkedin', link: '#'}
+- {icon: 'envelope', link: 'mailto:#'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
