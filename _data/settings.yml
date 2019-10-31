@@ -64,8 +64,8 @@ projects:
 social:
 - {icon: 'twitter', link: 'https://www.twitter.com/LilyParisDecor'}
 - {icon: 'instagram', link: 'https://www.instagram.com/lilyparis.decor'}
-- {icon: 'pinterest', link: '#'}
+# - {icon: 'pinterest', link: '#'}
 # - {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+# - {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
