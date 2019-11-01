@@ -2,6 +2,9 @@
 layout: post
 title: 'Conheça a Lily Paris'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+Lily Paris é uma loja virtual que une os conceitos de design, elegância e exclusividade, oferecendo produtos sofisticados para compor a decoração do seu ambiente. Nosso objetivo é proporcionar uma experiência surpreendente através de aromas requintados que combinam com o seu estilo e bom gosto.
+
+Nossa linha de produtos é composta por aromatizadores de ambientes, sabonetes líquidos, home spray e bandejas que podem ser usados para decoração em casa ou no trabalho. Também criamos coleções exclusivas sob encomenda para harmonizar com seu ambiente, com acabamento e essências personalizadas.
+
 
 {% include image.html url="http://lilyparis.elo7.com.br" image="projects/sobre/LilyParis.png" text="Visite a loja" %}

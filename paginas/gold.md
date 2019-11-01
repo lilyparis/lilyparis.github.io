@@ -2,6 +2,6 @@
 layout: post
 title: 'Coleção Gold Super Luxo'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+A Coleção Gold Super Luxo abrange aromatizadores de ambiente, sabonete líquido e home spray. Todos os produtos da coleção possuem acabamento em tons dourados e perolados, harmonizando ambientes decorados em tons de madeira. Os produtos desta coleção podem ser adquiridos individualmente, em forma de kit (com bandeja exclusiva da coleção), ou em forma de cesta de presentes. Todas as essências da coleção também podem ser personalizadas.
 
 {% include image.html url="https://www.elo7.com.br/lilyparis/colecao/colecao-gold-super-luxo" image="projects/gold/loja.png" text="Visite a loja" %}
